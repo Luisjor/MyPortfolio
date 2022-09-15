@@ -30,27 +30,27 @@ export default function Portfolio() {
         >
 
         <SwiperSlide className="swiperslide">
-          <a href="https://jorgechipadress.netlify.app/" target="_blank" rel="noopener">
+          <a href="https://jorgechipadress.netlify.app/" target="_blank" rel="noreferrer">
             <img src={IPTracker} alt="IP Tracker" />
           </a>
         </SwiperSlide>
         <SwiperSlide className="swiperslide">
-          <a href="https://www.grupoarti.co" target="_blank" rel="noopener">
+          <a href="https://www.grupoarti.co" target="_blank" rel="noreferrer">
             <img src={GrupoArtico} alt="Grupo Artico" />
           </a>
         </SwiperSlide>
         <SwiperSlide className="swiperslide">
-          <a href="https://jorgechtenzies.netlify.app/" target="_blank" rel="noopener">
+          <a href="https://jorgechtenzies.netlify.app/" target="_blank" rel="noreferrer">
             <img src={Tenzies} alt="Tenzies Game" />
           </a>
         </SwiperSlide>
         <SwiperSlide className="swiperslide">
-          <a href="https://jorgechfriends.herokuapp.com/" target="_blank" rel="noopener">
+          <a href="https://jorgechfriends.herokuapp.com/" target="_blank" rel="noreferrer">
             <img src={Friends} alt="Friends List" />
           </a>
         </SwiperSlide>
         <SwiperSlide className="swiperslide">
-          <a href="https://luisjor.github.io/TipCalculator/" target="_blank" rel="noopener">
+          <a href="https://luisjor.github.io/TipCalculator/" target="_blank" rel="noreferrer">
             <img src={TipCalc} alt="Tip Calculator" />
           </a>
         </SwiperSlide>
