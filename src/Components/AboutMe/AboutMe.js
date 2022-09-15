@@ -10,13 +10,16 @@ export default function AboutMe() {
                 <div>
                     <h3>Skills</h3>
                     <p>Frontend Related</p>
-                    <span className="skill--flags">HTML5</span>
-                    <span className="skill--flags">CSS3</span>
-                    <span className="skill--flags">Javascript</span>
                     <span className="skill--flags">ReactJS</span>
+                    <span className="skill--flags">Rails</span>
+                    <span className="skill--flags">Javascript</span>
+                    <span className="skill--flags">PostgreSQL</span>
                     <span className="skill--flags">GIT</span>
                     <span className="skill--flags">Bootstrap</span>
                     <span className="skill--flags">APIs</span>
+                    <span className="skill--flags">HTML5</span>
+                    <span className="skill--flags">CSS3</span>
+
                     <br/>
                     <p>Other Softwares</p>
                     <span className="skill--flags">Photoshop</span>
@@ -24,10 +27,13 @@ export default function AboutMe() {
                     <span className="skill--flags">Sketchup</span>
                     <span className="skill--flags">Google Earth</span>
                     <span className="skill--flags">MS Office</span>
+                    <span className="skill--flags">Trello</span>
+                    <span className="skill--flags">Sharepoint</span>
                     <br/>
                     <p>Lenguages proficiency</p>
-                    <span className="skill--flags">Native Spanish</span>
-                    <span className="skill--flags">Advanced English</span>
+                    <span className="skill--flags">C2 Spanish</span>
+                    <span className="skill--flags">C1 English</span>
+                    
                 </div>
                 <div className="div--about">
                     <h3>About</h3>
