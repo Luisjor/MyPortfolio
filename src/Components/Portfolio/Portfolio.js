@@ -55,7 +55,7 @@ export default function Portfolio() {
           </a>
         </SwiperSlide>
         <SwiperSlide className="swiperslide">
-          <a href="https://luisjor.github.io/AdviceGenerator/" target="_blank" rel="noopener">
+          <a href="https://luisjor.github.io/AdviceGenerator/" target="_blank" rel="noreferrer">
             <img src={AdviceGenerator} alt="Advice Generator" />
           </a>
         </SwiperSlide>
