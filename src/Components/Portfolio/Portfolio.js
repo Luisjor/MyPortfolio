@@ -12,6 +12,7 @@ import AdviceGenerator from "./img/AdviceGenerator.jpg"
 import GrupoArtico from "./img/GrupoArtico.jpg"
 import Friends from "./img/FriendsList.jpg"
 import IPTracker from "./img/IPTracker.jpg"
+import Markdown from "./img/Markdown.jpg"
 
 
 export default function Portfolio() {
@@ -29,6 +30,11 @@ export default function Portfolio() {
         className="myswiper"
         >
 
+        <SwiperSlide className="swiperslide">
+          <a href="https://notesmarkdown.netlify.app/" target="_blank" rel="noreferrer">
+            <img src={Markdown} alt="IP Tracker" />
+          </a>
+        </SwiperSlide>
         <SwiperSlide className="swiperslide">
           <a href="https://jorgechipadress.netlify.app/" target="_blank" rel="noreferrer">
             <img src={IPTracker} alt="IP Tracker" />
