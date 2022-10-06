@@ -9,9 +9,9 @@ export default function AboutMe() {
             <div className="intro--text">
                 <h1>Hi! <br/> I'm Jorge Chávez</h1>
                 <h2 className="auto-type">
-                    I'm a 
+                    I'm a
                     <Typed
-                    strings={[' Frontend Developer', ' Human', ' Athlete', ' Passionate']}
+                    strings={[' Frontend Developer', ' Human', 'n Athlete', ' Passionate']}
                     typeSpeed={75}
                     backSpeed={75}
                     loop
