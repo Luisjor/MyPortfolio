@@ -4,7 +4,6 @@ export default function Navbar() {
     document.documentElement.className = localStorage.theme || 'theme-white';
 
     function toggleTheme() {
-        console.log("clicked")
         if (localStorage.getItem('theme') === 'theme-black') {
             setTheme('theme-white');
         } else {
